@@ -1,0 +1,27 @@
+p {
+    text-align: center;
+}
+
+#stickersDiv {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    gap: 10em;
+}
+
+div div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+button {
+    display: block;
+    margin: auto;
+}
+
+a {
+    margin: 1em;
+    display: block;
+    text-align: center;
+}
